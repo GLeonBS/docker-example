@@ -139,7 +139,7 @@ docker push gabrielleon/docker-example:1.0
 
 - Antes de dar o push, certifique-se de:
     - Ter criado um repositório no Docker Hub
-    - Ter feito login com `docker login`
+    - Ter feito login do dockerHub na máquina que está utilizando.
 
 ---
 
